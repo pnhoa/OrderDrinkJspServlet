@@ -1,0 +1,226 @@
+
+div#vnt-footer {
+    padding-bottom: 25px;
+}
+#vnt-footer {
+    background: #3e3436;
+    padding: 18px 0;
+}
+
+
+#vnt-footer .wrapper {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    align-items: center;
+}
+.wrapper {
+    /* max-width: 1200px; */
+    /* padding: 0 15px; */
+    margin: 0 auto;
+}
+.vnt-button {
+    margin-bottom: 20px;
+}
+@media (max-width: 1199px) and (min-width: 992px)
+.hidden-md {
+    display: none!important;
+}
+div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, blockquote, pre, form, input, textarea {
+    margin: 0px;
+    padding: 0px;
+}
+.vnt-button .button-wrap {
+    margin: 0 -10px;
+}
+
+
+.menuOTher .wrapper>.box_mid .mid-title, .menuOTher div#vnt-main>.box_mid .mid-title, .vnt-button .button-wrap>div.buttons:first-child {
+    display: none;
+}
+.wrapper>.vnt-button .buttons {
+    max-width: 364px;
+    width: 100%;
+    margin: 0 auto;
+    float: none;
+}
+.vnt-button .buttons {
+    width: 50%;
+    float: left;
+    padding: 0 10px;
+}
+
+element.style {
+}
+.vnt-button .btn-mm {
+    display: block;
+    font-size: 20px;
+    line-height: 28px;
+    text-transform: uppercase;
+    padding: 11px 15px;
+    background: #b22830;
+    text-align: Center;
+    color: #ffffff;
+}
+a, a:hover, a:visited, a:focus {
+    text-decoration: none;
+}
+a {
+    color: #333333;
+    -webkit-transition: all 0.3s linear;
+    -o-transition: all 0.3s linear;
+    transition: all 0.3s linear;
+}
+.vnt-button .btn-mm {
+    display: block;
+    font-size: 20px;
+    line-height: 28px;
+    text-transform: uppercase;
+    padding: 11px 15px;
+    background: #b22830;
+    text-align: Center;
+    color: #ffffff;
+}
+.wrapper>.vnt-button .buttons {
+    max-width: 364px;
+    width: 100%;
+    margin: 0 auto;
+    float: none;
+}
+.vnt-button .btn-mm {
+    display: block;
+    font-size: 20px;
+    line-height: 28px;
+    text-transform: uppercase;
+    padding: 11px 15px;
+    background: #b22830;
+    text-align: Center;
+    color: #ffffff;
+}
+.vnt-button .btn-mm span {
+    position: relative;
+    padding-left: 30px;
+}
+.socialFoot {
+    margin-right: 20px;
+}
+div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, blockquote, pre, form, input, textarea {
+    margin: 0px;
+    padding: 0px;
+}
+.socialFoot ul {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    align-items: center;
+}
+ol, ul {
+    list-style: none;
+}
+.socialFoot ul li {
+    margin-right: 5px;
+}
+.socialFoot ul li a {
+    display: block;
+    width: 25px;
+    height: 25px;
+    background: #ffffff;
+    color: #53382c;
+    font-size: 16px;
+    line-height: 24px;
+    position: relative;
+    backface-visibility: hidden;
+}
+.socialFoot ul li a i {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+    -o-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+}
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.copyRight {
+    font-size: 13px;
+    line-height: 24px;
+    color: #ffffff;
+    margin-right: 25px;
+}
+.linkFooter {
+    margin-right: 25px;
+}
+.linkFooter a {
+    display: block;
+    font-size: 13px;
+    line-height: 21px;
+    color: #ffffff;
+}
+.linkFooter a span {
+    padding-left: 25px;
+    position: relative;
+}
+.linkFooter a span:before {
+    font-family: fontawesome;
+    position: absolute;
+    left: 0;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+.fa-send-o:before, .fa-paper-plane-o:before {
+    content: "\f1d9";
+}
+.fa-facebook-f:before, .fa-facebook:before {
+    content: "\f09a";
+}
+.fa-youtube:before {
+    content: "\f167";
+}
+.socialFoot ul li:last-child {
+    margin-right: 0;
+}
+.fa-instagram:before {
+    content: "\f16d";
+}
+.linkFooter.mb {
+    margin-right: 0;
+}
+
+
+.linkFooter a {
+    display: block;
+    font-size: 13px;
+    line-height: 21px;
+    color: #ffffff;
+}
+
+
+.linkFooter a span {
+    padding-left: 25px;
+    position: relative;
+}
+.linkFooter a span:before {
+    font-family: fontawesome;
+    position: absolute;
+    left: 0;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+.fa-envelope-o:before {
+    content: "\f003";
+}
